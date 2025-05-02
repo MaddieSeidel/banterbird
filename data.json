@@ -1,13 +1,5 @@
 [
     {
-        "username": "hello",
-        "message": ""
-    },
-    {
-        "username": "hello",
-        "message": "hello"
-    },
-    {
         "username": "admin",
         "message": "Happy Monday!"
     },
